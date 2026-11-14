@@ -70,8 +70,8 @@
       },
 
       contact: {
-        phone: "+923001234567",
-        whatsapp: "923001234567",
+        phone: "+923160522774",
+        whatsapp: "+923160522774",
         email: "hello@gentdemo.com",
         address: "Commercial Market, Rawalpindi, Pakistan",
       },
@@ -175,8 +175,8 @@
       },
 
       contact: {
-        phone: "+923001112233",
-        whatsapp: "923001112233",
+        phone: "+923160522774",
+        whatsapp: "+923160522774",
         email: "hello@glowdemo.com",
         address: "Bahria Town, Rawalpindi, Pakistan",
       },
